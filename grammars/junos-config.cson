@@ -1,0 +1,9 @@
+'name':'Junos Config'
+'comment':'Junos Configuration'
+'fileTypes': [
+  'cfg'
+  'config'
+  'junoscfg'
+]
+'foldingStartMarker':''
+'foldingStopMarker':''
